@@ -1,0 +1,33 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    background: linear-gradient(to right, rgb(49, 0, 49), rgb(123, 0, 123));
+    color: white;
+}
+
+div {
+    margin-top: 15px;
+}
+
+
+.image-section {
+    display: flx;
+    justify-content: space-center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: rgb(116, 67, 133);
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 20px;
+    height: 300px;
+    width: 300px;
+}
+
+button {
+    color: purple;
+}
